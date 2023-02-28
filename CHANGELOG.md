@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/RaphaelSve/mon-hello-world/compare/v0.1.3...v0.1.4) (2023-02-28)
+
+
+### Features
+
+* Modify test file ([06b8829](https://github.com/RaphaelSve/mon-hello-world/commit/06b8829bf9b5f5ec4206aee924e3efca69766e46))
+
 ### [0.1.3](https://github.com/RaphaelSve/mon-hello-world/compare/v0.1.2...v0.1.3) (2023-02-28)
 
 
